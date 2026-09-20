@@ -1,0 +1,14 @@
+# Ignore pi agent directory
+.pi/
+# Ignore vscode settings
+.vscode/
+# Ignore virtual environments
+.venv/
+.venv-*/
+# Ignore temporary files
+=*
+# Ignore large binary downloads
+google-cloud-cli-linux-x86_64.tar.gz
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
